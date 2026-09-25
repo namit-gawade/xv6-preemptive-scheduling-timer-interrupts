@@ -1,0 +1,9 @@
+*.o
+*.d
+*.asm
+*.sym
+kernel
+xv6.img
+fs.img
+mkfs
+.gdbinit
